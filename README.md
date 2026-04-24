@@ -274,6 +274,12 @@ All charts will be automatically saved as `.png` files in the project folder.
 
 ---
 
+## 👤 Author
+
+swathi
+- 📧 swathivishal77@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/swathi-vishal-9b0503384?utm_source=share&utm_campaign=share_viautm_content=profile&utm_medium=android_app)
+- 🐙 [GitHub](https://github.com/swathivishal)
 
 ---
 
